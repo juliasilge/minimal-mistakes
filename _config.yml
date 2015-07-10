@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            data science ish
 locale:           en_US
 url:              
 
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Julia Silge
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "My name is Julia Silge and I’ve spent my career in academia and ed tech, working in physics and astronomy. Now I want to learn the tools used in data science and apply them to some small, interesting projects."
+  email: julia.silge@gmail.com 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: juliasilge
+  facebook: julia.silge
   google:
     plus: #username
     analytics: 
@@ -40,11 +40,11 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: juliasilge
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: juliasilge
   xing: #username
-  instagram: #username
+  instagram: juliasilge
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -54,7 +54,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: #username
+  flickr: silgeland
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
