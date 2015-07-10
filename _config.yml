@@ -28,11 +28,11 @@ kramdown:
 owner:
   name: Julia Silge
   avatar: bio-photo.jpg
-  bio: "My name is Julia Silge and I’ve spent my career in academia and ed tech, working in physics and astronomy. Now I want to learn the tools used in data science and apply them to some small, interesting projects."
+  bio: "My name is Julia Silge and I’ve spent my career in academia and ed tech, working in physics and astronomy. Now I want to learn the tools used in data science and apply them to some small projects that are interesting to me."
   email: julia.silge@gmail.com 
   disqus-shortname: 
   twitter: juliasilge
-  facebook: julia.silge
+  facebook: #username
   google:
     plus: #username
     analytics: 
@@ -54,7 +54,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: silgeland
+  flickr: #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
