@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-comments: true
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
