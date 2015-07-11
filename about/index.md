@@ -1,8 +1,6 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: About Me
 comments: true
 image:
   feature: sample-image-2.jpg
@@ -10,16 +8,4 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
-
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+My name is Julia Silge. I live in Salt Lake City with my husband and three children (ages 9, 6, and 4), where we love the mountains, the climate, and our community. I studied physics and astronomy, finishing my PhD in 2005. During my years in astronomy, I developed near-infrared techniques for measuring how stars in galaxies are moving, modeled supermassive black holes at the centers of galaxies, and participated in searches for Kuiper belt objects in our own solar system. I have been active in teaching and communicating about STEM with non-expert audiences. I have also worked for an ed tech start-up writing astronomy content for the higher ed classroom. Now, I want to learn the tools used in data science today and apply them to some small projects that are interesting to me. My background in astronomy, physics, and education have given me a strong foundation for using data to answer interesting questions. Look at my work on Github, find me on LinkedIn, or send me an email.
