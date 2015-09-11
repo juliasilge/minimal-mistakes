@@ -2,6 +2,7 @@
 layout: post
 title: Hello, World!
 comments: true
+share: false
 image:
   feature: blogheader.jpg
 tags: [R]
