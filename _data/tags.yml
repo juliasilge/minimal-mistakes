@@ -1,2 +1,8 @@
 - slug: R
   name: R
+  
+- slug: sql
+  name: SQL
+  
+- slug: python
+  name: Python
